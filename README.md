@@ -1,4 +1,4 @@
-# Financial Dashboard
+# Financial smart-Dashboard
 
 I've created an interactive financial dashboard using Microsoft's sample data, allowing managers to analyze and filter information effortlessly.
 
