@@ -16,11 +16,11 @@ The dashboard showcases a clear, interactive interface for understanding global 
 
 1. **Smart Dashboard (Initial View)**  
    The initial view of the dynamic dashboard, providing an overview of the global car sales data.  
-   ![Smart Dashboard](smart%20Dashboard.jpg)
+   ![Smart Dashboard](smart%20Dashboard.JPG)
 
 2. **Smart Dashboard (Pivot Table Adjustment)**  
    This image shows how the pivot table updates based on changing the input criteria, highlighting the flexibility of the dashboard for deeper analysis.  
-   ![Smart Dashboard 2nd Image](smart%20Dashboard%202nd%20image.jpg)
+   ![Smart Dashboard 2nd Image](smart%20Dashboard%202nd%20image%20.jpg)
 
 ## Access
 
